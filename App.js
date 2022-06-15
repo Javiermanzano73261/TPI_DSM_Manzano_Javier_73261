@@ -8,8 +8,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 
 const Stack = createStackNavigator();
 
-//Manzano Javier - legajo:73261
-
+// Create a component
 export default  App = () => (
   <NavigationContainer>
     <Stack.Navigator>
